@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="me">
 
-  <title>Geesntijl - Ooops</title>
+  <title>Howdy!</title>
 
   <!-- Custom fonts for this theme -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
